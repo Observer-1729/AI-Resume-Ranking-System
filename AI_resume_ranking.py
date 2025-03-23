@@ -66,5 +66,5 @@ if uploaded_files and job_description:
         st.progress(score)  # Progress bar for score visualization
 
 # Footer
-st.sidebar.markdown("---")
+st.sidebar.markdown("------")
 st.sidebar.markdown("👨‍💻 Developed by Sahil Singh")
